@@ -1,0 +1,5 @@
+{
+  "name": "Tienda",
+  "description": "A complete e-commerce solution with Admin/Guest roles, AI-powered invoices, and product management.",
+  "requestFramePermissions": []
+}
